@@ -1,0 +1,30 @@
+body{
+    background-color: #fafafa;
+}
+#all-words{
+    border:1px solid grey;
+}
+#articles{
+    border:1px solid grey;
+}
+#learn{
+    border:1px solid grey;
+    width:250px;
+    margin-bottom:17px;
+    margin-right:20px;
+    margin-left:20px;
+
+}
+#jumbo{
+    text-align:center;
+
+}
+
+#smaller{
+    font-size:50px;
+    margin-top:10px;
+}
+
+#bigger{
+    font-size:50px;
+}
